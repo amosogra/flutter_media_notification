@@ -131,10 +131,10 @@
       "name": "flutter_media_notification",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-11-26T16:40:07.209301Z",
+  "generated": "2021-11-26T16:49:10.383309Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
